@@ -1,4 +1,4 @@
-#  
+#  Enhance Things 3 for macOS with vip Plugin for Things 3 for macOS - quick search and custom shortcuts, the #1 plugin. Includes quick search and custom shortcuts for a smoother
 
 
 
